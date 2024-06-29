@@ -1,0 +1,340 @@
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\appsettings.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.staticwebassets.runtime.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.exe
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.deps.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.runtimeconfig.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.pdb
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.ClientModel.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.csproj.AssemblyReference.cache
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.AssemblyInfoInputs.cache
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.AssemblyInfo.cs
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.RazorAssemblyInfo.cache
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.RazorAssemblyInfo.cs
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.webAppLuxe_Style.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.build.webAppLuxe_Style.props
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.webAppLuxe_Style.props
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.webAppLuxe_Style.props
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\scopedcss\bundle\webAppLuxe_Style.styles.css
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\scopedcss\projectbundle\webAppLuxe_Style.bundle.scp.css
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLu.CE9B3934.Up2Date
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\refint\webAppLuxe_Style.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.pdb
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.genruntimeconfig.cache
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\ref\webAppLuxe_Style.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\appsettings.Development.json
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\appsettings.json
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.staticwebassets.runtime.json
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.exe
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.deps.json
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.runtimeconfig.json
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.pdb
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Azure.Core.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Azure.Identity.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.ClientModel.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.csproj.AssemblyReference.cache
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.AssemblyInfoInputs.cache
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.AssemblyInfo.cs
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.csproj.CoreCompileInputs.cache
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.RazorAssemblyInfo.cache
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.RazorAssemblyInfo.cs
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.webAppLuxe_Style.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.build.webAppLuxe_Style.props
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.webAppLuxe_Style.props
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.webAppLuxe_Style.props
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets.build.json
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets.development.json
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\scopedcss\bundle\webAppLuxe_Style.styles.css
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\scopedcss\projectbundle\webAppLuxe_Style.bundle.scp.css
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.csproj.CopyComplete
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\refint\webAppLuxe_Style.dll
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.pdb
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.genruntimeconfig.cache
+D:\Documents\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\ref\webAppLuxe_Style.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\appsettings.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.staticwebassets.runtime.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.exe
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.deps.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.runtimeconfig.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.pdb
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Azure.Core.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Azure.Identity.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.ClientModel.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.csproj.AssemblyReference.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.AssemblyInfoInputs.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.AssemblyInfo.cs
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.csproj.CoreCompileInputs.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.RazorAssemblyInfo.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.RazorAssemblyInfo.cs
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.webAppLuxe_Style.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.build.webAppLuxe_Style.props
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.webAppLuxe_Style.props
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.webAppLuxe_Style.props
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\scopedcss\bundle\webAppLuxe_Style.styles.css
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\scopedcss\projectbundle\webAppLuxe_Style.bundle.scp.css
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLu.CE9B3934.Up2Date
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\refint\webAppLuxe_Style.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.pdb
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.genruntimeconfig.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\ref\webAppLuxe_Style.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\appsettings.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.staticwebassets.runtime.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.exe
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.deps.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.runtimeconfig.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\webAppLuxe_Style.pdb
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Azure.Core.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Azure.Identity.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.ClientModel.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.csproj.AssemblyReference.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.AssemblyInfoInputs.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.AssemblyInfo.cs
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.csproj.CoreCompileInputs.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.RazorAssemblyInfo.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.RazorAssemblyInfo.cs
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.webAppLuxe_Style.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.build.webAppLuxe_Style.props
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.webAppLuxe_Style.props
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.webAppLuxe_Style.props
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\scopedcss\bundle\webAppLuxe_Style.styles.css
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\scopedcss\projectbundle\webAppLuxe_Style.bundle.scp.css
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLu.CE9B3934.Up2Date
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\refint\webAppLuxe_Style.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.pdb
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\webAppLuxe_Style.genruntimeconfig.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\obj\Debug\net6.0\ref\webAppLuxe_Style.dll

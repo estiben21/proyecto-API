@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = webAppLuxe_Style
+build_property.RootNamespace = webAppLuxe_Style
+build_property.ProjectDir = D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\webAppLuxe_Style
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/Shared/Select.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNlbGVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/Shared/_carritoCompras.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9jYXJyaXRvQ29tcHJhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/Shared/_Comprar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db21wcmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/Shared/_Pago.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYWdvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/Shared/_PartialArticulo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsQXJ0aWN1bG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/Shared/_PartialCompra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsQ29tcHJhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/Shared/_PartialRegistrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsUmVnaXN0cmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/Tienda/Agregar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGllbmRhXEFncmVnYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/Tienda/CarritoCompras.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGllbmRhXENhcnJpdG9Db21wcmFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/Tienda/Select.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGllbmRhXFNlbGVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/webAppLuxe_Style/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-i2yxlkp8bl

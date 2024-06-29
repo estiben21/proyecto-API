@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\webappluxe_style\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|solutionrelative:webappluxe_style\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\webappluxe_style\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|solutionrelative:webappluxe_style\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\webappluxe_style\\webappluxe_style.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|solutionrelative:webappluxe_style\\webappluxe_style.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\views\\home\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\views\\home\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\views\\producto\\listadoproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\views\\producto\\listadoproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\proyecto.presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\proyecto.presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25ED54CC-73B3-4340-B033-CD5341E6650F}|ConsoleApp\\ConsoleApp.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25ED54CC-73B3-4340-B033-CD5341E6650F}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\views\\producto\\nuevoproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\views\\producto\\nuevoproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\wwwroot\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\wwwroot\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\webappluxe_style\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|solutionrelative:webappluxe_style\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\webappluxe_style\\views\\tienda\\select.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|solutionrelative:webappluxe_style\\views\\tienda\\select.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\webappluxe_style\\views\\shared\\_partialregistrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|solutionrelative:webappluxe_style\\views\\shared\\_partialregistrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\webappluxe_style\\views\\shared\\_partialcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|solutionrelative:webappluxe_style\\views\\shared\\_partialcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F7D87-CAED-40DB-BBEE-4B20E227B6F0}|VentasAPI\\VentasAPI.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\ventasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F7D87-CAED-40DB-BBEE-4B20E227B6F0}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\webappluxe_style\\views\\tienda\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|solutionrelative:webappluxe_style\\views\\tienda\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\webappluxe_style\\wwwroot\\content\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|solutionrelative:webappluxe_style\\wwwroot\\content\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\webappluxe_style\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|solutionrelative:webappluxe_style\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\webappluxe_style\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|solutionrelative:webappluxe_style\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\webappluxe_style\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8FA6C0-8B12-4AD7-851E-DEBC35BC223A}|webAppLuxe_Style\\webAppLuxe_Style.csproj|solutionrelative:webappluxe_style\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F7D87-CAED-40DB-BBEE-4B20E227B6F0}|VentasAPI\\VentasAPI.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\ventasapi\\repositorio\\dao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F7D87-CAED-40DB-BBEE-4B20E227B6F0}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\repositorio\\dao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F7D87-CAED-40DB-BBEE-4B20E227B6F0}|VentasAPI\\VentasAPI.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\ventasapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F7D87-CAED-40DB-BBEE-4B20E227B6F0}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F7D87-CAED-40DB-BBEE-4B20E227B6F0}|VentasAPI\\VentasAPI.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\ventasapi\\repositorio\\interfaces\\iproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F7D87-CAED-40DB-BBEE-4B20E227B6F0}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\repositorio\\interfaces\\iproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F7D87-CAED-40DB-BBEE-4B20E227B6F0}|VentasAPI\\VentasAPI.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\ventasapi\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F7D87-CAED-40DB-BBEE-4B20E227B6F0}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\steven\\desktop\\5 ciclo\\lunes\\final\\nueva carpeta\\nueva carpeta\\proyecto_webasp_mvc\\proyecto.presentacion\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAFwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T21:55:06.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIAzwCEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:45:48.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "listado.cshtml",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Home\\listado.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Home\\listado.cshtml",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Home\\listado.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Home\\listado.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T21:55:13.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T03:56:24.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T17:36:54.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TiendaController.cs",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Controllers\\TiendaController.cs",
+              "RelativeDocumentMoniker": "webAppLuxe_Style\\Controllers\\TiendaController.cs",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Controllers\\TiendaController.cs",
+              "RelativeToolTip": "webAppLuxe_Style\\Controllers\\TiendaController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:03:06.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "webAppLuxe_Style\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "webAppLuxe_Style\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T16:06:46.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "webAppLuxe_Style.csproj",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\webAppLuxe_Style.csproj",
+              "RelativeDocumentMoniker": "webAppLuxe_Style\\webAppLuxe_Style.csproj",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\webAppLuxe_Style.csproj",
+              "RelativeToolTip": "webAppLuxe_Style\\webAppLuxe_Style.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T04:29:44.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "listadoProductos.cshtml",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Producto\\listadoProductos.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Producto\\listadoProductos.cshtml",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Producto\\listadoProductos.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Producto\\listadoProductos.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T22:04:02.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutPrincipal.cshtml",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAowDoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T00:08:14.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Proyecto.Presentacion.csproj",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Proyecto.Presentacion.csproj",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Proyecto.Presentacion.csproj",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Proyecto.Presentacion.csproj",
+              "RelativeToolTip": "Proyecto.Presentacion\\Proyecto.Presentacion.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T03:58:36.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:41:49.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-24T17:37:24.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Program.cs",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Program.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:11:07.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "sb-admin-2.css",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\css\\sb-admin-2.css",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\wwwroot\\css\\sb-admin-2.css",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\css\\sb-admin-2.css",
+              "RelativeToolTip": "Proyecto.Presentacion\\wwwroot\\css\\sb-admin-2.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-24T18:01:24.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "nuevoProducto.cshtml",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Producto\\nuevoProducto.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Producto\\nuevoProducto.cshtml",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Producto\\nuevoProducto.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Producto\\nuevoProducto.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T01:47:20.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T17:43:08.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Proyecto.Presentacion\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T17:33:05.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Select.cshtml",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Views\\Tienda\\Select.cshtml",
+              "RelativeDocumentMoniker": "webAppLuxe_Style\\Views\\Tienda\\Select.cshtml",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Views\\Tienda\\Select.cshtml",
+              "RelativeToolTip": "webAppLuxe_Style\\Views\\Tienda\\Select.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T16:19:13.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\appsettings.json",
+              "RelativeDocumentMoniker": "webAppLuxe_Style\\appsettings.json",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\appsettings.json",
+              "RelativeToolTip": "webAppLuxe_Style\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T16:12:34.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\VentasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Program.cs",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\VentasAPI\\Program.cs",
+              "RelativeToolTip": "VentasAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:11:14.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Agregar.cshtml",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Views\\Tienda\\Agregar.cshtml",
+              "RelativeDocumentMoniker": "webAppLuxe_Style\\Views\\Tienda\\Agregar.cshtml",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Views\\Tienda\\Agregar.cshtml",
+              "RelativeToolTip": "webAppLuxe_Style\\Views\\Tienda\\Agregar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T16:10:25.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\appsettings.json",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\appsettings.json",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\appsettings.json",
+              "RelativeToolTip": "Proyecto.Presentacion\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T01:12:58.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_PartialRegistrar.cshtml",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Views\\Shared\\_PartialRegistrar.cshtml",
+              "RelativeDocumentMoniker": "webAppLuxe_Style\\Views\\Shared\\_PartialRegistrar.cshtml",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Views\\Shared\\_PartialRegistrar.cshtml",
+              "RelativeToolTip": "webAppLuxe_Style\\Views\\Shared\\_PartialRegistrar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T16:19:36.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_PartialCompra.cshtml",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Views\\Shared\\_PartialCompra.cshtml",
+              "RelativeDocumentMoniker": "webAppLuxe_Style\\Views\\Shared\\_PartialCompra.cshtml",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Views\\Shared\\_PartialCompra.cshtml",
+              "RelativeToolTip": "webAppLuxe_Style\\Views\\Shared\\_PartialCompra.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T17:15:39.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "estilo.css",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\wwwroot\\content\\estilo.css",
+              "RelativeDocumentMoniker": "webAppLuxe_Style\\wwwroot\\content\\estilo.css",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\wwwroot\\content\\estilo.css",
+              "RelativeToolTip": "webAppLuxe_Style\\wwwroot\\content\\estilo.css",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-24T16:22:26.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Program.cs",
+              "RelativeDocumentMoniker": "webAppLuxe_Style\\Program.cs",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Program.cs",
+              "RelativeToolTip": "webAppLuxe_Style\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:10:51.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "webAppLuxe_Style\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "webAppLuxe_Style\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T16:07:20.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "webAppLuxe_Style\\Models\\Articulo.cs",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\webAppLuxe_Style\\Models\\Articulo.cs",
+              "RelativeToolTip": "webAppLuxe_Style\\Models\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:02:34.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductoDAO.cs",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\VentasAPI\\Repositorio\\DAO\\ProductoDAO.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Repositorio\\DAO\\ProductoDAO.cs",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\VentasAPI\\Repositorio\\DAO\\ProductoDAO.cs",
+              "RelativeToolTip": "VentasAPI\\Repositorio\\DAO\\ProductoDAO.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:22:52.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\Producto.cs",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Models\\Producto.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\Producto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:56:15.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IProducto.cs",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\VentasAPI\\Repositorio\\Interfaces\\IProducto.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Repositorio\\Interfaces\\IProducto.cs",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\VentasAPI\\Repositorio\\Interfaces\\IProducto.cs",
+              "RelativeToolTip": "VentasAPI\\Repositorio\\Interfaces\\IProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:44:35.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\VentasAPI\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\VentasAPI\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "VentasAPI\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:46:29.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\VentasAPI\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Models\\Item.cs",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\VentasAPI\\Models\\Item.cs",
+              "RelativeToolTip": "VentasAPI\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:05:42.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\Item.cs",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Models\\Item.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:04:53.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Models\\Carrito.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\Carrito.cs",
+              "ToolTip": "D:\\Users\\Steven\\Desktop\\5 ciclo\\lunes\\final\\Nueva carpeta\\Nueva carpeta\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\Models\\Carrito.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\Carrito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:04:41.681Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

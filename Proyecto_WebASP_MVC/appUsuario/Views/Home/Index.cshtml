@@ -1,0 +1,79 @@
+﻿@model appUsuario.Models.Usuarios;
+
+@using (Html.BeginForm())
+{
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Iniciar sesión</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <style>
+            /* Estilos adicionales */
+            body {
+                background-color: #f8f9fa;
+                padding-top: 40px;
+            }
+
+            .login-container {
+                max-width: 400px;
+                background: #fff;
+                border-radius: 8px;
+                padding: 30px;
+                margin: 0 auto;
+                box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            }
+
+                .login-container h2 {
+                    font-size: 24px;
+                    margin-bottom: 20px;
+                    text-align: center;
+                }
+
+            .form-group {
+                margin-bottom: 20px;
+            }
+
+            .submit-btn {
+                margin-top: 20px;
+                text-align: center;
+            }
+
+                .submit-btn a {
+                    color: #007bff;
+                    text-decoration: none;
+                }
+
+            .validation-error {
+                color: red; /* Color rojo para mensajes de error */
+                font-size: 80%;
+            }
+        </style>
+    </head>
+
+    <div class="login-container">
+        <h2>Iniciar sesión</h2>
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Correo)
+            @Html.TextBoxFor(m => m.Correo, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Correo, "", new { @class = "validation-error" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.clave)
+            @Html.PasswordFor(m => m.clave, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.clave, "", new { @class = "validation-error" })
+        </div>
+
+        <div class="submit-btn">
+            <input type="submit" value="Iniciar sesión" class="btn btn-primary btn-block" />
+            <p>¿No tienes una cuenta? <a asp-controller="Usuarios" asp-action="Registro">Regístrate</a></p>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8sh+8k6aYA7D1BwFgIhB5q5t4efg8+Fl5K/EJo" crossorigin="anonymous"></script>
+}
+

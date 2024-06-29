@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Proyecto.Presentacion.Models.Producto>
+
+@{
+    ViewData["Title"] = "listadoProductos";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h1>Listado de Productos</h1>
+
+<form asp-action="DescargarPDF" asp-controller="Producto" method="post">
+    <button class="btn btn-success" type="submit">Descargar PDF</button>
+</form>
+<br />
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.id_producto)</th>
+            <th>@Html.DisplayNameFor(model => model.nombre)</th>
+            <th>@Html.DisplayNameFor(model => model.descripcion)</th>
+            <th>@Html.DisplayNameFor(model => model.stock)</th>
+            <th>@Html.DisplayNameFor(model => model.color)</th>
+            <th>@Html.DisplayNameFor(model => model.talla)</th>
+            <th>@Html.DisplayNameFor(model => model.precio)</th>
+            <th>@Html.DisplayNameFor(model => model.nom_cate)</th>
+            <th>@Html.DisplayNameFor(model => model.imagen)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.id_producto)</td>
+                <td>@Html.DisplayFor(modelItem => item.nombre)</td>
+                <td>@Html.DisplayFor(modelItem => item.descripcion)</td>
+                <td>@Html.DisplayFor(modelItem => item.stock)</td>
+                <td>@Html.DisplayFor(modelItem => item.color)</td>
+                <td>@Html.DisplayFor(modelItem => item.talla)</td>
+                <td>@Html.DisplayFor(modelItem => item.precio)</td>
+                <td>@Html.DisplayFor(modelItem => item.nom_cate)</td>
+                <td><img style="width:90px;height:90px" src="@Url.Content(string.Format("~/img/{0}.jpg",item.id_producto))" /></td>
+                <td>
+                    @Html.ActionLink("Edit", "modificaVendedor", new { id = item.id_producto }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

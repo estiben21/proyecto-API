@@ -1,0 +1,14 @@
+﻿@model IEnumerable<webAppLuxe_Style.Models.Item>
+@{
+ViewBag.Title = "Comprar";
+}
+<h2>Proceso de Compra de Articulos</h2>
+@Html.Partial("_PartialComprar")
+<section id="monto">
+    TOTAL A PAGAR S/ @(((decimal)ViewBag.monto).ToString("0.00"))
+</section>
+<section>
+    @Html.ActionLink("Pagar", "Pago",null, new {@class="btn btn-default" })
+    @Html.ActionLink("Retornar", "_carritoCompras",null, new { @class = "btn btn-default"
+    })
+</section>

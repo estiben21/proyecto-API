@@ -1,0 +1,15 @@
+﻿@model webAppLuxe_Style.Models.Articulo
+
+@{
+    ViewData["Title"] = "Select";
+    Layout = "~/Views/Shared/_PartialRegistrar.cshtml";
+
+}
+
+
+<h2>Producto seleccionado</h2>
+
+<section>
+    @Html.ActionLink("Agregar", "Agregar", "Tienda", new { id = Model.id_producto })
+    @Html.ActionLink("Retornar", "carritoCompras")
+</section>

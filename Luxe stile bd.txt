@@ -1,0 +1,187 @@
+-- Crear la base de datos
+CREATE DATABASE tienda_LUXE_STYLE;
+GO
+
+-- Usar la base de datos
+USE tienda_LUXE_STYLE;
+GO
+
+-- Crear la tabla de categoria
+CREATE TABLE Categoria(
+	id_categoria INT IDENTITY(1,1) PRIMARY KEY,
+	nom_cate VARCHAR(100) NOT NULL
+);
+
+-- Crear la tabla de productos
+CREATE TABLE Producto (
+    id_producto INT IDENTITY(1,1) PRIMARY KEY,
+    nombre VARCHAR(500),
+	descripcion VARCHAR(500),
+	stock INT NOT NULL,
+    color VARCHAR(50),
+    talla VARCHAR(10),
+    precio DECIMAL(10, 2) NOT NULL,
+	id_categoria INT references Categoria(id_categoria),
+	imagen VARCHAR(100)
+);
+
+-- Crear la tabla de usuarios
+CREATE TABLE Usuarios (
+    Id INT PRIMARY KEY IDENTITY,
+    Nombre VARCHAR(100) NOT NULL,
+    Apellido VARCHAR(100) NOT NULL,
+    Correo VARCHAR(100) NOT NULL ,
+    Contrasena VARCHAR(100) NOT NULL
+);
+go
+
+
+CREATE PROCEDURE RegistrarUsuario
+    @Nombre VARCHAR(100),
+    @Apellido VARCHAR(100),
+    @Correo VARCHAR(100),
+    @Contrasena VARCHAR(100)
+AS
+BEGIN
+    INSERT INTO Usuarios (Nombre, Apellido, Correo, Contrasena)
+    VALUES (@Nombre, @Apellido, @Correo,@Contrasena);
+END;
+
+--LISTADO DE PRODUCTOS PARA CLIENTES
+IF OBJECT_ID('SP_LISTADOPRODUCTOS') IS NOT NULL
+	DROP PROC SP_LISTADOPRODUCTOS
+GO
+CREATE PROC SP_LISTADOPRODUCTOS
+AS
+	SELECT P.id_producto, P.nombre, P.descripcion, P.stock, 
+			P.color, P.talla, P.precio, C.nom_cate, P.imagen
+			FROM Producto P JOIN Categoria C ON
+			P.id_categoria = C.id_categoria
+GO
+
+--LISTADO DE PRODUCTOS PARA BUSQUEDA
+IF OBJECT_ID('SP_LISTADOPRODUCTOS_O') IS NOT NULL
+	DROP PROC SP_LISTADOPRODUCTOS_O
+GO
+CREATE PROC SP_LISTADOPRODUCTOS_O
+AS
+	SELECT * FROM Producto 
+GO
+
+--LISTADO DE CATEGORIA
+IF OBJECT_ID('SP_LISTADOCATEGORIA') IS NOT NULL
+	DROP PROC SP_LISTADOCATEGORIA
+GO
+CREATE PROC SP_LISTADOCATEGORIA
+AS
+	SELECT * FROM Categoria 
+GO
+
+--MERGE (INSERCION +  ACTUALIZACIÓN)
+IF OBJECT_ID('SP_MERGE_PRODUCTO') IS NOT NULL
+	DROP PROC SP_MERGE_PRODUCTO
+GO
+CREATE PROC SP_MERGE_PRODUCTO(@IDE INT, @NOM VARCHAR(500),@DES VARCHAR(500),@STOCK INT,@COLOR VARCHAR(50),@TALLA VARCHAR(10),
+								@PRECIO DECIMAL, @CATE INT, @IMAGE VARCHAR(100))
+AS
+	MERGE Producto AS TARGET USING(SELECT @IDE,@NOM,@DES,@STOCK,@COLOR,@TALLA,@PRECIO,@CATE,@IMAGE)
+					AS SOURCE(id_producto,nombre,descripcion,stock,color,talla,precio,id_categoria,imagen)
+					ON TARGET.id_producto=SOURCE.id_producto
+	WHEN MATCHED THEN
+		UPDATE SET	TARGET.nombre=SOURCE.nombre,TARGET.descripcion=SOURCE.descripcion,
+					TARGET.stock=SOURCE.stock,TARGET.color=SOURCE.color,
+					TARGET.talla=SOURCE.talla,TARGET.precio=SOURCE.precio,
+					TARGET.id_categoria=SOURCE.id_categoria,TARGET.imagen=SOURCE.imagen
+	WHEN NOT MATCHED THEN
+		INSERT VALUES(SOURCE.nombre,SOURCE.descripcion,SOURCE.stock,SOURCE.color,SOURCE.talla,SOURCE.precio,SOURCE.id_categoria,SOURCE.imagen);
+GO
+
+--ELIMINA PRODUCTO
+IF OBJECT_ID('SP_ELIMINARPRODUCTO') IS NOT NULL
+	DROP PROC SP_ELIMINARPRODUCTO
+GO
+CREATE PROC SP_ELIMINARPRODUCTO
+@IDE_PROD INT
+AS
+DELETE FROM Producto WHERE id_producto = @IDE_PROD
+GO
+
+
+--PARA CARRITO DE COMPRAS
+IF OBJECT_ID('SP_LISTAPRODUCTOS') IS NOT NULL
+DROP PROC SP_LISTAPRODUCTOS
+GO
+CREATE PROC SP_LISTAPRODUCTOS
+AS
+SELECT P.id_producto,P.descripcion,P.stock,P.color,P.talla,P.precio
+FROM PRODUCTO P
+GO
+
+IF OBJECT_ID('SP_LISTAARTICULOS') IS NOT NULL
+DROP PROC SP_LISTAARTICULOS
+GO
+CREATE PROC SP_LISTAARTICULOS
+AS
+SELECT P.id_producto,P.nombre,P.descripcion, P.stock, P.color, P.talla, P.precio, P.imagen
+FROM Producto P
+GO
+
+
+-- Insertar categoria
+INSERT INTO Categoria (nom_cate) VALUES
+('Camisetas'),
+('Vaqueros'),
+('Sudaderas'),
+('Vestidos'),
+('Zapatillas'),
+('Chaquetas'),
+('Pantalones Cortos'),
+('Gorras'),
+('Faldas'),
+('Calcetines');
+
+-- Insertar productos
+INSERT INTO Producto (nombre, descripcion, stock, id_categoria, color, talla, precio, imagen) VALUES
+('Camiseta Clásica', 'Una cómoda camiseta de algodón', 50, 1, 'Rojo', 'M', 15.99, '~/Productos/1.jpg'),
+('Vaqueros Clásicos', 'Vaqueros elegantes y duraderos', 30, 2, 'Azul', '32', 49.99, '~/Productos/2.jpg'),
+('Sudadera con Capucha', 'Sudadera cálida y acogedora', 20, 3, 'Negro', 'L', 39.99, '~/Productos/3.jpg'),
+('Vestido de Verano', 'Vestido ligero y aireado para el verano', 15, 4, 'Amarillo', 'S', 29.99, '~/Imgs/4.jpg'),
+('Zapatillas', 'Zapatillas cómodas y elegantes', 40, 5, 'Blanco', '9', 59.99, '~/Productos/5.jpg'),
+('Chaqueta de Cuero', 'Chaqueta de cuero genuino', 10, 6, 'Marrón', 'XL', 99.99, '~/Productos/6.jpg'),
+('Pantalones Cortos Deportivos', 'Pantalones cortos deportivos transpirables', 25, 7, 'Gris', 'L', 19.99, '~/Imgs/7.jpg'),
+('Gorra de Béisbol', 'Gorra de béisbol clásica', 60, 8, 'Azul Marino', 'S', 12.99, '~/Productos/8.jpg'),
+('Falda Plisada', 'Elegante falda plisada', 18, 9, 'Rosa', 'M', 34.99, '~/Productos/9.jpg'),
+('Calcetines Tobilleros', 'Calcetines tobilleros cómodos', 100, 10, 'Blanco', 'S', 5.99, '~/Productos/10.jpg');
+
+INSERT INTO Producto (nombre, descripcion, stock, id_categoria, color, talla, precio, imagen) VALUES
+('Camiseta Clásica2', 'Una cómoda camiseta de algodón', 50, 1, 'Rojo', 'M', 15.99, '~/Productos/11.jpg'),
+('Vaqueros Clásicos2', 'Vaqueros elegantes y duraderos', 30, 2, 'Azul', '32', 49.99, '~/Productos/12.jpg'),
+('Sudadera con Capucha2', 'Sudadera cálida y acogedora', 20, 3, 'Negro', 'L', 39.99, '~/Productos/13.jpg'),
+('Vestido de Verano2', 'Vestido ligero y aireado para el verano', 15, 4, 'Amarillo', 'S', 29.99, '~/Productos/14.jpg'),
+('Zapatillas2', 'Zapatillas cómodas y elegantes', 40, 5, 'Blanco', '9', 59.99, '~/Productos/15.jpg'), 
+('Chaqueta de Cuero2', 'Chaqueta de cuero genuino', 10, 6, 'Marrón', 'XL', 99.99, '~/Productos/16.jpg'),
+('Pantalones Cortos Deportivos2', 'Pantalones cortos deportivos transpirables', 25, 7, 'Gris', 'L', 19.99, '~/Productos/17.jpg'),
+('Gorra de Béisbol2', 'Gorra de béisbol clásica', 60, 8, 'Azul Marino', 'S', 12.99, '~/Productos/18.jpg'),
+('Falda Plisada2', 'Elegante falda plisada', 18, 9, 'Rosa', 'M', 34.99, '~/Productos/19.jpg'),
+('Calcetines Tobilleros2', 'Calcetines tobilleros cómodos', 100, 10, 'Blanco', 'S', 5.99, '~/Productos/20.jpg'),
+('Camiseta Clásica3', 'Una cómoda camiseta de algodón', 50, 1, 'Rojo', 'M', 15.99, '~/Productos/21.jpg'),
+('Vaqueros Clásicos3', 'Vaqueros elegantes y duraderos', 30, 2, 'Azul', '32', 49.99, '~/Productos/22.jpg'),
+('Sudadera con Capucha3', 'Sudadera cálida y acogedora', 20, 3, 'Negro', 'L', 39.99, '~/Productos/23.jpg'),
+('Vestido de Verano3', 'Vestido ligero y aireado para el verano', 15, 4, 'Amarillo', 'S', 29.99, '~/Productos/24.jpg'),
+('Zapatillas3', 'Zapatillas cómodas y elegantes', 40, 5, 'Blanco', '9', 59.99, '~/Productos/25.jpg'), 
+('Chaqueta de Cuero3', 'Chaqueta de cuero genuino', 10, 6, 'Marrón', 'XL', 99.99, '~/Productos/26.jpg'),
+('Pantalones Cortos Deportivos3', 'Pantalones cortos deportivos transpirables', 25, 7, 'Gris', 'L', 19.99, '~/Productos/27.jpg'),
+('Gorra de Béisbol3', 'Gorra de béisbol clásica', 60, 8, 'Azul Marino', 'S', 12.99, '~/Productos/28.jpg'),
+('Falda Plisada3', 'Elegante falda plisada', 18, 9, 'Rosa', 'M', 34.99, '~/Productos/29.jpg'),
+('Calcetines Tobilleros3', 'Calcetines tobilleros cómodos', 100, 10, 'Blanco', 'S', 5.99, '~/Productos/30.jpg'),
+('Camiseta Clásica4', 'Una cómoda camiseta de algodón', 50, 1, 'Rojo', 'M', 15.99, '~/Productos/31.jpg'),
+('Vaqueros Clásicos4', 'Vaqueros elegantes y duraderos', 30, 2, 'Azul', '32', 49.99, '~/Productos/32.jpg'),
+('Sudadera con Capucha4', 'Sudadera cálida y acogedora', 20, 3, 'Negro', 'L', 39.99, '~/Productos/33.jpg'),
+('Vestido de Verano', 'Vestido ligero y aireado para el verano', 15, 4, 'Amarillo', 'S', 29.99, '~/Productos/34.jpg'),
+('Zapatillas4', 'Zapatillas cómodas y elegantes', 40, 5, 'Blanco', '9', 59.99, '~/Productos/35.jpg'), 
+('Chaqueta de Cuero4', 'Chaqueta de cuero genuino', 10, 6, 'Marrón', 'XL', 99.99, '~/Productos/36.jpg'),
+('Pantalones Cortos Deportivos4', 'Pantalones cortos deportivos transpirables', 25, 7, 'Gris', 'L', 19.99, '~/Productos/37.jpg'),
+('Gorra de Béisbol4', 'Gorra de béisbol clásica', 60, 8, 'Azul Marino', 'S', 12.99, '~/Productos/38.jpg'),
+('Falda Plisada4', 'Elegante falda plisada', 18, 9, 'Rosa', 'M', 34.99, '~/Productos/39.jpg'),
+('Calcetines Tobilleros4', 'Calcetines tobilleros cómodos', 100, 10, 'Blanco', 'S', 5.99, '~/Productos/40.jpg');
+

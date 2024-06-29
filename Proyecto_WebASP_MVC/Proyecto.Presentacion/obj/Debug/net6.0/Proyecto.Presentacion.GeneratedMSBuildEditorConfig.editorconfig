@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Proyecto.Presentacion
+build_property.RootNamespace = Proyecto.Presentacion
+build_property.ProjectDir = D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\Proyecto.Presentacion\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Users\Steven\Desktop\5 ciclo\lunes\final\Nueva carpeta\Nueva carpeta\Proyecto_WebASP_MVC\Proyecto.Presentacion
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/Proyecto.Presentacion/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/Proyecto.Presentacion/Views/Home/listado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsaXN0YWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/Proyecto.Presentacion/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/Proyecto.Presentacion/Views/Producto/listadoProductos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cbGlzdGFkb1Byb2R1Y3Rvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/Proyecto.Presentacion/Views/Producto/nuevoProducto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cbnVldm9Qcm9kdWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/Proyecto.Presentacion/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/Proyecto.Presentacion/Views/Shared/_LayoutPrincipal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRQcmluY2lwYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/Proyecto.Presentacion/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/Proyecto.Presentacion/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/Proyecto.Presentacion/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Steven/Desktop/5 ciclo/lunes/final/Nueva carpeta/Nueva carpeta/Proyecto_WebASP_MVC/Proyecto.Presentacion/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-x7gbsjd1x2

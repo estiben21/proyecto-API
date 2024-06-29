@@ -1,0 +1,15 @@
+﻿@model IEnumerable<webAppLuxe_Style.Models.Articulo>
+<link href="~/content/estilo.css" rel="stylesheet" />
+@foreach (var item in Model)
+{
+    <section class="bloque">
+        <img class="imgArt" src="@Url.Content(string.Format("~/Img/{0}.jpg",item.id_producto))" /><br />
+        <strong>NOMBRE: </strong> @item.nombre <br />
+        <strong>DESCRIPCION: </strong> @item.descripcion <br />
+        <strong>STOCK ACTUAL: </strong> @item.stock<br />
+        <strong>COLOR: </strong> @item.color <br />
+        <strong>TALA: S/ </strong> @item.talla <br />
+        <strong>PRECIO: S/ </strong> @item.precio <br />
+        @Html.ActionLink("<Adquirir>","Select",new { id=item.id_producto })
+    </section>
+}

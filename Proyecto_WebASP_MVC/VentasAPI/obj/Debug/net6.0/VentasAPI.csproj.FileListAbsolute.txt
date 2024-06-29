@@ -1,0 +1,588 @@
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\appsettings.json
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.exe
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.deps.json
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.runtimeconfig.json
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.pdb
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.AssemblyReference.cache
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.AssemblyInfoInputs.cache
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.AssemblyInfo.cs
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.CoreCompileInputs.cache
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.VentasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.VentasAPI.props
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VentasAPI.props
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VentasAPI.props
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\scopedcss\bundle\VentasAPI.styles.css
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.CopyComplete
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\refint\VentasAPI.dll
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.pdb
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.genruntimeconfig.cache
+D:\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\ref\VentasAPI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\appsettings.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.exe
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.deps.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.runtimeconfig.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.pdb
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.AssemblyReference.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.AssemblyInfoInputs.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.AssemblyInfo.cs
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.CoreCompileInputs.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.VentasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.VentasAPI.props
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VentasAPI.props
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VentasAPI.props
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\scopedcss\bundle\VentasAPI.styles.css
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.Up2Date
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\refint\VentasAPI.dll
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.pdb
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.genruntimeconfig.cache
+D:\Users\Steven\Desktop\5 ciclo\lunes\LUNES\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\ref\VentasAPI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.exe
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.deps.json
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.runtimeconfig.json
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.pdb
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.AssemblyReference.cache
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.AssemblyInfoInputs.cache
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.AssemblyInfo.cs
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.VentasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.VentasAPI.props
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VentasAPI.props
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VentasAPI.props
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\scopedcss\bundle\VentasAPI.styles.css
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.Up2Date
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\refint\VentasAPI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.pdb
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.genruntimeconfig.cache
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\ref\VentasAPI.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\appsettings.json
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.exe
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.deps.json
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.runtimeconfig.json
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.pdb
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.AssemblyReference.cache
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.AssemblyInfoInputs.cache
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.AssemblyInfo.cs
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.CoreCompileInputs.cache
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.VentasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.VentasAPI.props
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VentasAPI.props
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VentasAPI.props
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\scopedcss\bundle\VentasAPI.styles.css
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.CopyComplete
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\refint\VentasAPI.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.pdb
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.genruntimeconfig.cache
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\ref\VentasAPI.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\libman.json
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\libman.json
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.exe
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.deps.json
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.runtimeconfig.json
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.pdb
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.AssemblyReference.cache
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.AssemblyInfoInputs.cache
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.AssemblyInfo.cs
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.VentasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.VentasAPI.props
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VentasAPI.props
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VentasAPI.props
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\scopedcss\bundle\VentasAPI.styles.css
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.Up2Date
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\refint\VentasAPI.dll
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.pdb
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.genruntimeconfig.cache
+C:\Users\Microsoft\OneDrive\Documentos\Ciclo 5\DESARROLLO DE SERVICIOS WEB I\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\ref\VentasAPI.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\libman.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.exe
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.deps.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.runtimeconfig.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.pdb
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.AssemblyReference.cache
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.AssemblyInfoInputs.cache
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.AssemblyInfo.cs
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.VentasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.VentasAPI.props
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VentasAPI.props
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VentasAPI.props
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\scopedcss\bundle\VentasAPI.styles.css
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.Up2Date
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\refint\VentasAPI.dll
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.pdb
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.genruntimeconfig.cache
+C:\Users\Microsoft\OneDrive\Escritorio\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\ref\VentasAPI.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\libman.json
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\appsettings.json
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.exe
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.deps.json
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.runtimeconfig.json
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\VentasAPI.pdb
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.AssemblyReference.cache
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.AssemblyInfoInputs.cache
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.AssemblyInfo.cs
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.CoreCompileInputs.cache
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.VentasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.VentasAPI.props
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VentasAPI.props
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VentasAPI.props
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\scopedcss\bundle\VentasAPI.styles.css
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.csproj.CopyComplete
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\refint\VentasAPI.dll
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.pdb
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\VentasAPI.genruntimeconfig.cache
+D:\Documents\Proyecto_WebASP_MVC\VentasAPI\obj\Debug\net6.0\ref\VentasAPI.dll

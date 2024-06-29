@@ -1,0 +1,124 @@
+﻿@model appUsuario.Models.Usuarios;
+
+@using (Html.BeginForm())
+{
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Registro</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <style>
+            body {
+                background-color: #f8f9fa;
+                padding-top: 40px;
+            }
+
+            .form-container {
+                max-width: 700px;
+                background: #fff;
+                border-radius: 8px;
+                padding: 30px;
+                margin: 0 auto;
+                box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            }
+
+                .form-container h2 {
+                    font-size: 24px;
+                    margin-bottom: 20px;
+                    text-align: center;
+                }
+
+            .form-group {
+                margin-bottom: 20px;
+            }
+
+            .form-control {
+                border: 1px solid #ced4da;
+                border-radius: 4px;
+                padding: 10px;
+            }
+
+            .validation-error {
+                color: #dc3545; /* Color rojo */
+                font-size: 80%;
+                margin-top: 5px;
+            }
+
+            .submit-btn {
+                text-align: center;
+                padding-top: 30px;
+            }
+
+            .btn-group {
+                display: flex;
+                justify-content: space-between;
+            }
+        </style>
+    </head>
+
+    <div class="form-container">
+        <h2>Registro</h2>
+
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <div class="alert alert-success text-center">
+                @TempData["SuccessMessage"]
+            </div>
+        }
+
+        @Html.ValidationSummary(true)
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Nombre)
+                    @Html.TextBoxFor(m => m.Nombre, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Nombre, "", new { @class = "validation-error" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Apellido)
+                    @Html.TextBoxFor(m => m.Apellido, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Apellido, "", new { @class = "validation-error" })
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Correo)
+                    @Html.TextBoxFor(m => m.Correo, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Correo, "", new { @class = "validation-error" })
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-group">
+                    @Html.LabelFor(m => m.clave)
+                    @Html.PasswordFor(m => m.clave, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.clave, "", new { @class = "validation-error" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => m.ConfirmarClave)
+                    @Html.PasswordFor(m => m.ConfirmarClave, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.ConfirmarClave, "", new { @class = "validation-error" })
+                </div>
+
+                <div class="btn-group">
+                    <input type="submit" value="Registrar" class="btn btn-primary mr-2" />
+                    <a href="@Url.Action("Index", "Home")" class="btn btn-secondary">Volver</a>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+<script>
+    $(document).ready(function () {
+        $('form').on('submit', function () {
+            if ($(this).valid()) {
+                $('input[type="text"], input[type="password"]').val('');
+            }
+        });
+    });
+</script>
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha384-ZvpUoO/+PpvhJToQvW/sQguD8Be0oME62hMLwP5qTTf5e5sQgvhGJTPg2nB+HHnM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js" integrity="sha384-b6KPlyAK4e6lEC2FSA2vFrmv4HNFU/J1MzI6WHSF3WPRu3nRrIA5gjYz0zgC+RMW" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js" integrity="sha384-pwgV3Be8Gfg6ZWvF3fiPn5b+eXJj0c2Nx+gj5HtZCZ4Z5GzYlg9NE1/9ccj8o+zh" crossorigin="anonymous"></script>
+

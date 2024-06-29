@@ -1,0 +1,18 @@
+﻿@model IEnumerable<webAppLuxe_Style.Models.Item>
+@{
+    ViewBag.Title = "Pago";
+}
+<h2>Realizar la Transaccion</h2>
+<p>
+    @Html.ActionLink("Retornar", "carritoCompras")
+</p>
+@using (Html.BeginForm())
+{
+    <div>Ingrese DNI</div>
+    <input type="text" name="dni" value="@ViewBag.dni" />
+    <div>Ingrese Nombres y Apellidos</div>
+    <input type="text" name="nombres" value="@ViewBag.nombres" />
+    <input type="submit" value="Aceptar" />
+}
+@Html.Partial("_PartialCompra")
+<div id="monto">MONTO TOTAL S/ @(((decimal)ViewBag.mt).ToString("0.00"))</div>

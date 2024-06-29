@@ -1,0 +1,230 @@
+﻿@model webAppLuxe_Style.Models.Articulo
+<link href="~/Content/estilo.css" rel="stylesheet" />
+<style>
+    /* General Styles */
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        min-height: 100vh;
+    }
+
+    /* Container for the article details */
+    .container {
+        display: flex;
+        max-width: 900px;
+        width: 100%;
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+    }
+
+    /* Left section for details */
+    .left-section {
+        padding-right: 20px;
+        flex: 1;
+    }
+
+    /* Right section for image */
+    .right-section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* Headline */
+    h4 {
+        font-size: 24px;
+        color: #333;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    /* Horizontal Rule */
+    hr {
+        border: 0;
+        height: 2px;
+        background: #ff6f61;
+        margin: 20px 0;
+    }
+
+    /* Definition List Styling */
+    dl.row {
+        display: flex;
+        flex-wrap: wrap;
+        font-size: 14px;
+    }
+
+    dt.col-sm-2, dd.col-sm-10 {
+        margin: 0;
+        padding: 2px 0;
+    }
+
+    dt.col-sm-2 {
+        font-weight: bold;
+        color: #333;
+    }
+
+    dd.col-sm-10 {
+        color: #555;
+        margin-left: 10px;
+    }
+
+    /* Button Styling */
+    .buttons {
+        margin-top: 20px;
+        display: flex;
+        gap: 10px;
+    }
+
+    button {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        background-color: #ff6f61;
+        color: white;
+        font-size: 16px;
+        text-decoration: none;
+    }
+
+        button:hover {
+            background-color: #ff4a3c;
+        }
+
+    /* Image Styling */
+    .imgArt {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    /* General Styles */
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        min-height: 100vh;
+    }
+
+    /* Container for the article details */
+    .container {
+        display: flex;
+        max-width: 900px;
+        width: 100%;
+    }
+
+    /* Left section for details */
+    .left-section {
+        padding: 20px;
+        flex: 1;
+    }
+
+    /* Right section for image */
+    .right-section {
+        flex: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+    }
+
+    /* Headline */
+    h4 {
+        font-size: 24px;
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    /* Horizontal Rule */
+    hr {
+        border: 0;
+        height: 2px;
+        background: #ff6f61;
+        margin: 20px 0;
+    }
+
+    /* Definition List Styling */
+    dl.row {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    dt.col-sm-2, dd.col-sm-10 {
+        padding: 10px;
+        margin: 0;
+    }
+
+    dt.col-sm-2 {
+        font-weight: bold;
+        color: #555;
+    }
+
+    dd.col-sm-10 {
+        color: #777;
+    }
+
+    /* Button Styling */
+    .buttons {
+        margin-top: 20px;
+        display: flex;
+        gap: 10px;
+    }
+
+    button {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        background-color: #ff6f61;
+        color: white;
+        font-size: 16px;
+    }
+
+        button:hover {
+            background-color: #ff4a3c;
+        }
+
+    /* Image Styling */
+    .imgArt {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+</style>
+
+<h4>SISTEMA DE GESTION PARA LIBRERIA</h4>
+
+<div class="container">
+    <div class="left-section">
+        <dl class="row">
+            <dt class="col-sm-2">Codigo</dt>
+            <dd class="col-sm-10">@Html.DisplayFor(model => model.id_producto)</dd>
+            <dt class="col-sm-2">Descripcion</dt>
+            <dd class="col-sm-10">@Html.DisplayFor(model => model.descripcion)</dd>
+            <dt class="col-sm-2">Precio</dt>
+            <dd class="col-sm-10">@Html.DisplayFor(model => model.precio)</dd>
+            <dt class="col-sm-2">StockActual</dt>
+            <dd class="col-sm-10">@Html.DisplayFor(model => model.stock)</dd>
+            <dt class="col-sm-2">StockMinimo</dt>
+            <dd class="col-sm-10">1500</dd>
+            <dt class="col-sm-2">Unidad</dt>
+            <dd class="col-sm-10">MLL</dd>
+            @RenderBody()
+        </dl>
+    </div>
+    <div class="right-section">
+        <img class="imgArt" src="@Url.Content(string.Format("~/Img/{0}.jpg", Model.id_producto))" />
+    </div>
+</div>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\webAppLuxe_Style.props" />
+</Project>

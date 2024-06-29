@@ -1,0 +1,124 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrusel de Productos</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .custom-label {
+            text-align: center;
+        }
+
+        .custom-input {
+            width: 200px;
+            margin-top: 5px;
+        }
+
+        .custom-btn {
+            padding-left: 50px;
+            padding-right: 50px;
+            font-size: 18px;
+        }
+
+        .carousel-item img {
+            max-height: 400px;
+            object-fit: cover;
+        }
+
+        .text-center-custom {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <!-- Begin Page Content -->
+    <br />
+    <h2 class="text-center mb-4">Sistema de venta de ropa por catálogo</h2>
+    <div id="carouselProductos" class="carousel slide" data-ride="carousel" data-interval="3000">
+
+        <!-- Indicadores -->
+        <ol class="carousel-indicators">
+            <li data-target="#carouselProductos" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselProductos" data-slide-to="1"></li>
+            <li data-target="#carouselProductos" data-slide-to="2"></li>
+            <li data-target="#carouselProductos" data-slide-to="3"></li>
+            <li data-target="#carouselProductos" data-slide-to="4"></li>
+        </ol>
+
+        <!-- Imágenes del carrusel -->
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/carrusel/1.jpg" class="d-block w-100" alt="Producto 1">
+                <div class="carousel-caption d-none d-md-block">
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="~/carrusel/2.jpg" class="d-block w-100" alt="Producto 2">
+                <div class="carousel-caption d-none d-md-block">
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="~/carrusel/3.jpg" class="d-block w-100" alt="Producto 3">
+                <div class="carousel-caption d-none d-md-block">
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="~/carrusel/4.jpg" class="d-block w-100" alt="Producto 4">
+                <div class="carousel-caption d-none d-md-block">
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="~/carrusel/5.jpg" class="d-block w-100" alt="Producto 5">
+                <div class="carousel-caption d-none d-md-block">
+                </div>
+            </div>
+        </div>
+
+        <!-- Controles del carrusel -->
+        <a class="carousel-control-prev" href="#carouselProductos" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Anterior</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselProductos" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Siguiente</span>
+        </a>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+<section id="columna">
+        <tr>
+            <td><img id="logo" src="~/carrusel/h1.jpg" /></td>
+        </tr>
+</section>
+<section id="columna">
+        <tr>
+            <td><img id="logo" src="~/carrusel/h2.jpg" /></td>
+        </tr>
+</section>
+<section id="columna">
+        <tr>
+            <td><img id="logo" src="~/carrusel/h3.jpg" /></td>
+        </tr>
+</section>
+<section id="columna">
+        <tr>
+            <td><img id="logo" src="~/carrusel/m1.jpg" /></td>
+        </tr>
+</section>
+<section id="columna">
+        <tr>
+            <td><img id="logo" src="~/carrusel/m2.jpg" /></td>
+        </tr>
+</section>
+<section id="columna">
+        <tr>
+            <td><img id="logo" src="~/carrusel/m3.jpg" /></td>
+        </tr>
+</section>
+
+

@@ -1,0 +1,12 @@
+﻿@model IEnumerable<webAppLuxe_Style.Models.Articulo>
+@{
+ViewBag.Title = "carritoCompras";
+}
+
+<h2>CARRITO DE COMPRAS</h2>
+<p>
+
+@Html.ActionLink("Realizar Compra", "Comprar", null, new { @class = "btn btn-default" })
+</p>
+
+@Html.Partial("_PartialArticulo");
